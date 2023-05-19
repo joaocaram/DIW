@@ -1,33 +1,39 @@
 {
  "filmes" : [
 	 {
+		 "id":1,
 		 "titulo":"Os Três Mosqueteiros",
 		 "generos":"Ação, aventura, histórico",
 		 "sinopse":"D'Artagnan, um jovem gascão espirituoso, é deixado para morrer depois de tentar salvar uma jovem de ser sequestrada. Ao chegar a Paris, ele tenta por todos os meios encontrar seus agressores, sem saber que sua busca o levará ao centro de uma guerra real, onde o futuro da França está em jogo. Aliado a Athos, Porthos e Aramis, três mosqueteiros do rei, D’Artagnan enfrenta as maquinações sombrias do Cardeal de Richelieu. Mas é quando se apaixona perdidamente por Constance Bonacieux, a confidente da Rainha, que d'Artagnan se coloca verdadeiramente em perigo. Pois é essa paixão que o leva ao rastro daquela que se torna sua inimiga mortal: Milady de Winter.",
 		 "cartaz":"3mosquet.png"
 	 },
 	 {
+		 "id":2,
 		 "titulo":"Suzume",
 		 "generos":"Anime, fantasia",
 		 "sinopse":"A jornada de Suzume (Nanoka Hara), uma adolescente de 17 anos, que começa em uma cidade tranquila quando ela encontra um jovem que lhe diz estar procurando uma porta. Então Suzume encontra uma única porta envelhecida em pé no meio das ruínas, como se estivesse protegida de qualquer catástrofe do mundo. Atraída por seu poder, Suzume estende a mão para a maçaneta e acessa um reino diferente de tudo que já viu.",
 		 "cartaz":"suzume.png"
 	 },
 	 {
+		"id":3,
 		"titulo":"Cavaleiros do Zodíaco - Saint Seiya: O Começo",
 	  	"generos":"Live-action, ação, mitologia",
 	  	"sinopse":"Cinco jovens guerreiros de diversas partes do globo são recrutados para serem os Cavaleiros do Zodíaco, uma força de elite cósmica dedicada a proteger a deusa Atena e o planeta Terra.",
 	  	"cartaz":"seiya.jpg"
 	 },
 	 {
+		 "id":4,
 		 "titulo":"Super Mario Bros. O Filme",
 		 "generos":"Animação, aventura, videogame",
 		 "sinopse":"Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado por Bowser, o rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares.",
 		 "cartaz":"mario.png"
 	 },
 	 {
+		 "id":5,
 		 "titulo":"Guardiões da Galáxia 3",
 		 "generos":"Marvel, ação, quadrinhos, herói",
 		 "sinopse":"Não sei porque eu não vi ainda e vocês não vão me dar spoiler.",
-		 "cartaz":"guardioes.png"}
+		 "cartaz":"guardioes.png"
+	 }
  ]
 }
