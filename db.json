@@ -34,6 +34,13 @@
 		 "generos":"Marvel, ação, quadrinhos, herói",
 		 "sinopse":"Não sei porque eu não vi ainda e vocês não vão me dar spoiler.",
 		 "cartaz":"guardioes.png"
+	 },
+	 {
+		 "id":6,
+		 "titulo": "Nove Rainhas",
+		 "generos": "Policial, suspense",
+		 "sinopse": "Marcos (Ricardo Darín) e Juan (Gastón Pauls) são dois picaretas que estão prestes a dar o golpe de suas vidas. Os dois se conhecem numa madrugada, após Juan tentar dar um golpe em um balconista, e resolvem se unir para participar de uma negociação milionária, envolvendo uma série de selos falsificados conhecidos como "Nove Rainhas". Um milionário espanhol está interessado em comprar a série, mas como deixará a cidade ao amanhecer o negócio precisa ser realizado imediatamente. Com isso, o veterano Marcos ensina a Juan os segredos do ofício e a cada passo que dão encontram novos ladrões e farsantes, sendo que não poderão confiar em ninguém, nem mesmo um no outro.",
+		 "cartaz": "noveRainhas.png"
 	 }
  ]
 }
