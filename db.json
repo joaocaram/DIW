@@ -5,7 +5,8 @@
 		 "titulo":"Os Três Mosqueteiros",
 		 "generos":"Ação, aventura, histórico",
 		 "sinopse":"D'Artagnan, um jovem gascão espirituoso, é deixado para morrer depois de tentar salvar uma jovem de ser sequestrada. Ao chegar a Paris, ele tenta por todos os meios encontrar seus agressores, sem saber que sua busca o levará ao centro de uma guerra real, onde o futuro da França está em jogo. Aliado a Athos, Porthos e Aramis, três mosqueteiros do rei, D’Artagnan enfrenta as maquinações sombrias do Cardeal de Richelieu. Mas é quando se apaixona perdidamente por Constance Bonacieux, a confidente da Rainha, que d'Artagnan se coloca verdadeiramente em perigo. Pois é essa paixão que o leva ao rastro daquela que se torna sua inimiga mortal: Milady de Winter.",
-		 "cartaz":"3mosquet.png"
+		 "cartaz":"3mosquet.png",
+		 "pais": "🇫🇷"
 	 },
 	 {
 		 "id":2,
