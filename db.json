@@ -13,35 +13,58 @@
 		 "titulo":"Suzume",
 		 "generos":"Anime, fantasia",
 		 "sinopse":"A jornada de Suzume (Nanoka Hara), uma adolescente de 17 anos, que começa em uma cidade tranquila quando ela encontra um jovem que lhe diz estar procurando uma porta. Então Suzume encontra uma única porta envelhecida em pé no meio das ruínas, como se estivesse protegida de qualquer catástrofe do mundo. Atraída por seu poder, Suzume estende a mão para a maçaneta e acessa um reino diferente de tudo que já viu.",
-		 "cartaz":"suzume.png"
+		 "cartaz":"suzume.png",
+		 "pais": "🇯🇵"
 	 },
 	 {
 		"id":3,
 		"titulo":"Cavaleiros do Zodíaco - Saint Seiya: O Começo",
 	  	"generos":"Live-action, ação, mitologia",
 	  	"sinopse":"Cinco jovens guerreiros de diversas partes do globo são recrutados para serem os Cavaleiros do Zodíaco, uma força de elite cósmica dedicada a proteger a deusa Atena e o planeta Terra.",
-	  	"cartaz":"seiya.jpg"
+	  	"cartaz":"seiya.jpg",
+		 "pais": "🇺🇸 🇯🇵"
 	 },
 	 {
 		 "id":4,
 		 "titulo":"Super Mario Bros. O Filme",
 		 "generos":"Animação, aventura, videogame",
 		 "sinopse":"Mario é um encanador junto com seu irmão Luigi. Um dia, eles vão parar no reino dos cogumelos, governado pela Princesa Peach, mas ameaçado por Bowser, o rei dos Koopas, que faz de tudo para conseguir reinar em todos os lugares.",
-		 "cartaz":"mario.png"
+		 "cartaz":"mario.png",
+		 "pais": "🇺🇸 🇯🇵"
 	 },
 	 {
 		 "id":5,
 		 "titulo":"Guardiões da Galáxia 3",
-		 "generos":"Marvel, ação, quadrinhos, herói",
+		 "generos":"Marvel, ação, quadrinhos, heróis",
 		 "sinopse":"Não sei porque eu não vi ainda e vocês não vão me dar spoiler.",
-		 "cartaz":"guardioes.png"
+		 "cartaz":"guardioes.png",
+		 "pais: "🇺🇸"
 	 },
 	 {
 		 "id":6,
 		 "titulo": "Nove Rainhas",
 		 "generos": "Policial, suspense",
 		 "sinopse": "Marcos (Ricardo Darín) e Juan (Gastón Pauls) são dois picaretas que estão prestes a dar o golpe de suas vidas. Os dois se conhecem numa madrugada, após Juan tentar dar um golpe em um balconista, e resolvem se unir para participar de uma negociação milionária, envolvendo uma série de selos falsificados conhecidos como 'Nove Rainhas'. Um milionário espanhol está interessado em comprar a série, mas como deixará a cidade ao amanhecer o negócio precisa ser realizado imediatamente. Com isso, o veterano Marcos ensina a Juan os segredos do ofício e a cada passo que dão encontram novos ladrões e farsantes, sendo que não poderão confiar em ninguém, nem mesmo um no outro.",
-		 "cartaz": "noveRainhas.png"
-	 }
+		 "cartaz": "noveRainhas.png",
+		 "pais": "🇦🇷"
+		 
+	 },
+	 {
+		 "id":7,
+		 "titulo": "Cidade de Deus",
+		 "generos": "Policial, ação, filme nacional",
+		 "sinopse": "Buscapé é um jovem pobre, negro e sensível, que cresce em um universo de muita violência. Ele vive na Cidade de Deus, favela carioca conhecida por ser um dos locais mais violentos do Rio. Amedrontado com a possibilidade de se tornar um bandido, Buscapé é salvo de seu destino por causa de seu talento como fotógrafo, o qual permite que siga carreira na profissão. É por meio de seu olhar atrás da câmera que ele analisa o dia a dia da favela em que vive, onde a violência aparenta ser infinita.",
+		 "cartaz": "cidade.png",
+		 "pais": "🇧🇷"
+	 },
+	 
+	 {
+		 "id":8,
+		 "titulo": "Your Name (Kimi no Na wa)",
+		 "generos": "Anime, drama, romance, ficção científica",
+		 "sinopse": "Mitsuha é a filha do prefeito de uma pequena cidade, mas sonha em tentar a sorte em Tóquio. Taki trabalha em um restaurante em Tóquio e deseja largar o seu emprego. Os dois não se conhecem, mas estão conectados pelas imagens de seus sonhos.",
+		 "cartaz": "yourName.png",
+		 "pais": "🇯🇵"
+	 } 
  ]
 }
